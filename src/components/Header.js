@@ -9,7 +9,9 @@ const Header = () => {
             <nav>
                 <ul>
                     <li>
-                        <Link to='/' component={Homepage}>Home</Link>
+                        <Link to={'/'}>Home</Link>
+                        <Link to={'/about'}>About</Link>
+                        <Link to={'/addonion'}>Add Onion</Link>
                     </li>
                 </ul>
             </nav>
