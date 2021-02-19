@@ -1,0 +1,10 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background-image: url('./images/onions.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.header {
+  color: whitesmoke;
+}
